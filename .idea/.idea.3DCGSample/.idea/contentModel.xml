@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="3DCGSample.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="GbufferSample" t="Include">
+          <e p="GBufferTest.cs" t="Include" />
+          <e p="Shader" t="Include">
+            <e p="Gbuffer.shader" t="Include" />
+            <e p="monoTone.shader" t="Include" />
+            <e p="noramlBuffer.shader" t="Include" />
+            <e p="TestShader.shader" t="Include" />
+            <e p="zbuffer.shader" t="Include" />
+          </e>
+        </e>
+        <e p="README_SD_UnityChan.txt" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="AutoRotate.cs" t="Include" />
+          <e p="PostEffect.cs" t="Include" />
+        </e>
+        <e p="SkySerie Freebie" t="Include">
+          <e p="Hdri setup.txt" t="Include" />
+        </e>
+        <e p="UnityChan" t="Include">
+          <e p="Models" t="Include">
+            <e p="UnityChanShader" t="Include">
+              <e p="Shader" t="Include">
+                <e p="readme.txt" t="Include" />
+                <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+                <e p="Unitychan_chara_eye.shader" t="Include" />
+                <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+                <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+                <e p="Unitychan_chara_fuku.shader" t="Include" />
+                <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+                <e p="Unitychan_chara_hada.shader" t="Include" />
+                <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+                <e p="Unitychan_chara_hair.shader" t="Include" />
+                <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AutoBlink.cs" t="Include" />
+            <e p="AutoBlinkforSD.cs" t="Include" />
+            <e p="CameraController.cs" t="Include" />
+            <e p="FaceUpdate.cs" t="Include" />
+            <e p="IdleChanger.cs" t="Include" />
+            <e p="IKCtrlRightHand.cs" t="Include" />
+            <e p="IKLookAt.cs" t="Include" />
+            <e p="RandomWind.cs" t="Include" />
+            <e p="SpringBone.cs" t="Include" />
+            <e p="SpringCollider.cs" t="Include" />
+            <e p="SpringManager.cs" t="Include" />
+            <e p="ThirdPersonCamera.cs" t="Include" />
+            <e p="UnityChanControlScriptWithRgidBody.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$PROJECT_DIR$/../Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$/../Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_3DCGSample.-1333102113.00" t="ExcludeRecursive" />
+  </component>
+</project>
